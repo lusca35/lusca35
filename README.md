@@ -10,9 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusca35&layout=compact&langs_count=7&theme=dark"/> 
     </div>
  
-  #
+  ##
   
-  ### Com quais linguagens trabalho
+  ### 🛠 Com quais linguagens trabalho
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="lusca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lusca-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
