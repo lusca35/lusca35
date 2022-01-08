@@ -1,8 +1,6 @@
-## Oi, eu sou Lucas Silva
+## Olá! eu sou Lucas Silva
 - 👀 Trabalho com front-end 
 - 🌱 Atualmente estou aprendendo Python e Java
-- 💞️ Estou procurando colaborar em ...
-
 
 <div>
   <a href="https://github.com/lusca35">
